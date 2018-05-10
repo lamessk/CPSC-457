@@ -1,0 +1,8 @@
+Issues with files:
+  A: 
+  B: 
+  C: contains cycle
+  D: shares blocks
+  E: shares blocks
+  F: shares blocks
+Number of free blocks: 50000

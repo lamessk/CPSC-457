@@ -1,0 +1,22 @@
+Issues with files:
+        empty: 
+    empty-neb: not enough blocks
+    empty-tmb: too many blocks
+          reg: 
+         reg2: 
+         reg3: 
+        cycle: contains cycle
+       cycle2: contains cycle
+    cycle-tmb: too many blocks, contains cycle
+    cycle-neb: not enough blocks, contains cycle
+          sh1: shares blocks
+          sh2: shares blocks
+      sh3-neb: not enough blocks, shares blocks
+      sh4-tmb: too many blocks, shares blocks
+       cyc-sh: contains cycle, shares blocks
+      cyc-sh2: contains cycle, shares blocks
+      cyc-sh3: contains cycle, shares blocks
+      cyc-sh4: contains cycle, shares blocks
+  cyc2-sh-neb: not enough blocks, contains cycle, shares blocks
+  cyc2-sh-tmb: too many blocks, contains cycle, shares blocks
+Number of free blocks: 100
